@@ -1,4 +1,4 @@
 coinexbd
 ========
 
-A project of Bangladeshi based crypto currency exchange platform.
+A project of Bangladesh based crypto currency exchange platform.
