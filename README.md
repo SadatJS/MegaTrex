@@ -1,4 +1,4 @@
-coinexbd
+MegaTrex
 ========
 
 A project of Bangladesh based crypto currency exchange platform.
